@@ -5,5 +5,7 @@ public class Peace {
         System.out.println("Peace");
 
         System.out.println("Love");
+
+        System.out.println("Compassion");
     }
 }
